@@ -42,11 +42,6 @@ PlatformIO IDE
 C/C++
 ```
 
-工程目录：
-
-```text
-/Users/kejian/Desktop/学习/硬件课设/esp32_32x64_matrix_demo
-```
 
 主要文件：
 
